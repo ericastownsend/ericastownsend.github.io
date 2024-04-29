@@ -70,7 +70,7 @@ author:
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-5247-8036"
     - label: "google scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=fWhL6LUAAAAJ&hl=en&oi=ao"
     - label: "smith lab @ dartmouth"
       icon: "fab fa-solid fa-flask"
