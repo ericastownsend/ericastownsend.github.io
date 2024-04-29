@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "  "
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "behavioral neuroscientist and 4th year PhD candidate studying dopamine and acetylcholine dynamics underlying motivated behaviors with dr. kyle smith at dartmouth college."
+  bio    : "behavioral neuroscientist and 4th year PhD candidate studying the dopamine & acetylcholine dynamics that underlie flexible motivation with dr. kyle smith at dartmouth college."
   links:
     - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
