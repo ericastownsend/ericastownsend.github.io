@@ -1,5 +1,5 @@
 ---
-title: "upcoming talk at Einstein Med"
+title: "our Upper Valley Brain Bee winner is a national champ!"
 categories:
   - Blog
 tags:
