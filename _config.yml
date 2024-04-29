@@ -87,6 +87,9 @@ footer:
     - label: "google scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=fWhL6LUAAAAJ&hl=en&oi=ao"
+    - label: "email me"
+      icon: "far fa-paper-plane"
+      url: "mailto:erica.s.townsend.gr@dartmouth.edu"
 
 defaults:
   # _posts
