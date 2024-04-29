@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "erica townsend"
+  name   : "  "
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "behavioral neuroscientist and 4th year PhD candidate studying doapmine and acetylcholine dynamics in sign-tracking with dr. kyle smith at dartmouth college."
   links:
