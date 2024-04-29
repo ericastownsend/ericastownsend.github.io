@@ -72,21 +72,6 @@ author:
     - label: "google scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=fWhL6LUAAAAJ&hl=en&oi=ao"
-
-footer:
-  links:
-    - label: "twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ericastownsend"
-    - label: "github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ericastownsend"
-    - label: "orcid"
-      icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/0000-0002-5247-8036"
-    - label: "google scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=fWhL6LUAAAAJ&hl=en&oi=ao"
     - label: "email me"
       icon: "far fa-paper-plane"
       url: "mailto:erica.s.townsend.gr@dartmouth.edu"
