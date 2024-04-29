@@ -16,9 +16,7 @@
 title: Erica Townsend
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Behavioral neuroscientist and 4th year PhD candidate at Dartmouth College.
 twitter_username: ericastownsend
 github_username: ericastownsend
 minimal_mistakes_skin: contrast
@@ -58,35 +56,35 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Erica S. Townsend"
+  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Scientist studying rat dopamine."
+  bio    : "behavioral neuroscientist and 4th year PhD candidate studying doapmine and acetylcholine dynamics in sign-tracking with dr. kyle smith at dartmouth college."
   links:
-    - label: "Twitter"
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ericastownsend"
-    - label: "GitHub"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ericastownsend"
-    - label: "ORCiD"
+    - label: "orcid"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-5247-8036"
-    - label: "Google Scholar"
+    - label: "google scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=fWhL6LUAAAAJ&hl=en&oi=ao"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ericastownsend"
-    - label: "GitHub"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ericastownsend"
-    - label: "ORCiD"
+    - label: "orcid"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-5247-8036"
-    - label: "Google Scholar"
+    - label: "google scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=fWhL6LUAAAAJ&hl=en&oi=ao"
 
