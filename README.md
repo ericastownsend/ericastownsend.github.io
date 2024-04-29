@@ -1,27 +1,2 @@
-# Minimal Mistakes remote theme starter
-
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+I am a behavioral neuroscientist that also happens to be a PhD candidate in the Dartmouth Psychological and Brain Sciences Department working with Dr. Kyle Smith. I am fascinated by how quickly and effortlessly we can learn and alter associations in our ever-changing environment. It's how we are able to navigate our noisy, loud world. It's how we decide what to do or act.
+I study the neural transmission underlying learning and motivation mechanisms in the brain, as well as the complex and variable behaviors (specifically, Pavlovian conditioned approach, or sign-tracking) that manifest. Behavior is my bread and butter, and I strongly believe that without behavior the brain is just a ball of jelly. Recently, I developed some novel measures for studying motivated behaviors in animals with greater detail and in multiple dimensions. I'm aiming to capture individual differences and natural variation as well. I have been combining these analyses with in vivo pharmacology and fiber photometry to explore underlying dopamine and acetylcholine transmission in different frameworks of learning and motivation mechanisms in the brain. I've also had a chance to dabble a bit in the habit learning world with optogenetics and electrophysiology during my graduate endeavors.
