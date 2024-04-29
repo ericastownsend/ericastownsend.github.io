@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "publications"
 ---
 \* = authors contributed equally 
 
