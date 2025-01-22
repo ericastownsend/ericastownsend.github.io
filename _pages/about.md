@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "about"
+title: "about me"
 ---
 
 <h3>who i am</h3>
