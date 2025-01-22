@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "  "
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "behavioral neuroscientist and 4th year PhD candidate studying the dopamine & acetylcholine dynamics that underlie flexible motivation with dr. kyle smith at dartmouth college."
+  bio    : "behavioral neuroscientist and 5th year PhD candidate studying the dopamine & acetylcholine dynamics that underlie flexible motivation with dr. kyle smith at dartmouth college."
   links:
     - label: "bluesky"
-      icon: "fa-brands fa-square-bluesky"
-      url: "https://twitter.com/ericastownsend"
+      icon: "fas fa-satellite-dish"
+      url: "https://bsky.app/profile/ericastownsend.bsky.social"
     - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ericastownsend"
