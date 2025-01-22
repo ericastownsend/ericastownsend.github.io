@@ -16,7 +16,7 @@
 title: Erica Townsend
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Behavioral neuroscientist and 4th year PhD candidate at Dartmouth College studying learning and motivation in the brain.
+  Behavioral neuroscientist and 5th year PhD candidate at Dartmouth College studying learning and motivation in the brain.
 twitter_username: ericastownsend
 github_username: ericastownsend
 minimal_mistakes_skin: dirt
@@ -60,8 +60,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "behavioral neuroscientist and 4th year PhD candidate studying the dopamine & acetylcholine dynamics that underlie flexible motivation with dr. kyle smith at dartmouth college."
   links:
-    - label: "twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "bluesky"
+      icon: "fa-brands fa-square-bluesky"
       url: "https://twitter.com/ericastownsend"
     - label: "github"
       icon: "fab fa-fw fa-github"
