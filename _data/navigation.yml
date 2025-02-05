@@ -1,10 +1,12 @@
 main:
   - title: "about"
-    url: /about/
+    url: /about me/
   - title: "publications"
     url: /publications/
   - title: "posts"
     url: /posts/
+  - title: "resume"
+    url: /resume/
   - title: "cv"
     url: /cv/
   #- title: "Categories"
