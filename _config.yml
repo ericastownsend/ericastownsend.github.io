@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "  "
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "behavioral neuroscientist studying the dopamine & acetylcholine dynamics that underlie flexible motivation with dr. kyle smith at dartmouth college."
+  bio    : "behavioral neuroscientist studying the neural circuitry of premature habit formation and stress in dr. jacqueline giovanniello's lab at temple university lewis katz school of medicine."
   links:
     - label: "bluesky"
       icon: "fas fa-satellite-dish"
@@ -74,7 +74,7 @@ author:
       url: "https://scholar.google.com/citations?user=fWhL6LUAAAAJ&hl=en&oi=ao"
     - label: "email me"
       icon: "far fa-paper-plane"
-      url: "mailto:erica.s.townsend.gr@dartmouth.edu"
+      url: "mailto:ericatownsend@temple.edu"
 
 defaults:
   # _posts
