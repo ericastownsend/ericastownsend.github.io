@@ -3,6 +3,9 @@ permalink: /publications/
 title: "publications"
 ---
 <h2> preprints </h2> 
+
+**Townsend, E. S.**, Garrod, D., Smith, K.S. (2025). Phasic dopamine tracks persistent attraction to reward cues. <i>bioRxiv</i>. [link](https://www.biorxiv.org/content/10.64898/2025.12.09.693300v1)
+
 Amaya, K.A., Carmichael, J.E., **Townsend, E. S.**, Palmer, J.A., Stott, J.J., Smith, K.S. (2024). Habit learning shapes activity dynamics in the central amygdala. <i>bioRxiv</i>. [link](https://www.biorxiv.org/content/10.1101/2024.02.20.580730v1.abstract)
 
 <h2> peer-reviewed publications </h2> 
